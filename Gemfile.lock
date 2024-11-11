@@ -1,0 +1,17 @@
+PATH
+  remote: ../wardite
+  specs:
+    wardite (0.4.3)
+
+GEM
+  specs:
+
+PLATFORMS
+  arm64-darwin-23
+  ruby
+
+DEPENDENCIES
+  wardite!
+
+BUNDLED WITH
+   2.5.11

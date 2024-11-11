@@ -1,0 +1,1 @@
+gem "wardite", path: "../wardite"
