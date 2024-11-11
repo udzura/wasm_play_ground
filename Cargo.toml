@@ -1,0 +1,12 @@
+[package]
+name = "wasm_play_ground"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[profile.release]
+opt-level = "s"
